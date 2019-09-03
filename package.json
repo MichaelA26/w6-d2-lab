@@ -1,0 +1,16 @@
+{
+  "name": "lab_day_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha models/specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "description": ""
+}
